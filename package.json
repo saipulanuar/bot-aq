@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/RTeam1/wabot-aq",
+  "homepage": "https://github.com/saipulanuar/bot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTeam1/wabot-aq.git"
+    "url": "git+https://github.com/saipulanuar/bot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/RTeam1/wabot-aq/issues"
+    "url": "https://github.com/saipulanuar/bot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
