@@ -44,7 +44,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
+│ Link Group:
 │ %github
 ╰────
 %readmore`.trimStart(),
