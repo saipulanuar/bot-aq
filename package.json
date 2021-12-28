@@ -1,5 +1,5 @@
 {
-  "name": "Null Bot",
+  "name": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,20 +22,20 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://bit.ly/3sBR2Of",
+  "homepage": "https:instagram.com/drak_ipul123",
   "author": {
     "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTeam1/wabot-aq.git"
+    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/RTeam1/wabot-aq/issues"
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "github:melcanz/baileys",
     "awesome-phonenumber": "^2.54.0",
     "brainly-scraper-v2": "^2.0.4-1",
     "cfonts": "^2.9.3",
@@ -67,8 +67,6 @@
     "url-regex": "^5.0.0",
     "xmldom": "^0.6.0",
     "yargs": "^17.0.1",
-    "zip": "^1.2.0",
-    "zs-extract": "^1.4.0",
-    "moment-timezone": "^0.5.32"
+    "yt-search": "^2.9.0"
   }
-} 
+}
