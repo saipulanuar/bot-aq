@@ -51,7 +51,7 @@ if (stickerpack.spackname == '') {
   //var sticker_author = 'Nurutomo'
   var sticker_name = '𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧' // ganti aja
 
-var sticker_author = '' // ganti aja
+var sticker_author = '𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
