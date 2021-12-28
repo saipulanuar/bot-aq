@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.reply(m.chat, 'Masih ada soal belum terjawab di chat ini', conn.tebakgambar[id][0])
     throw false
   }
-  let res = await fetch(global.API('xteam', '/game/tebakgambar', {}, 'KingOfBear'))
+  let res = await fetch('https://api.xteam.xyz/game/tebakgambar?APIKEY=KingOfBear')
   if (res.status !== 200) throw await res.text()
   let json = await res.json()
   // if (!json.status) throw json
