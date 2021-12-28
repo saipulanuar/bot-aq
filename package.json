@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/saipulanuar/bot-aq",
+  "homepage": "https://bit.ly/3sBR2Of",
   "author": {
-    "name": "Narutomo"
+    "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saipulanuar/bot-aq.git"
+    "url": "git+https://github.com/RTeam1/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/saipulanuar/bot-aq/issues"
+    "url": "https://github.com/RTeam1/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
